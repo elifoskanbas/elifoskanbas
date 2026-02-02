@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elifoskanbas" alt="elifoskanbas" /></a> </p>
 
-- 🌱 I’m currently learning **web development**
+
 
 - 📫 How to reach me **elif.oskanbas@bahcesehir.edu.tr**
 
